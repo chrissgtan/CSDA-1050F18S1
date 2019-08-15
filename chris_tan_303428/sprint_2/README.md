@@ -20,19 +20,31 @@ Here are the research questions for this project:
 **Sprint#2 Objectives**
 1.  Continue to collect and archive Twitter data
 2.  Base on lessons learned in Sprint#1, conduct analytics for individual banks (CIBC, BMO, Scotia Bank, RBC, TD Bank) for the following
+
     a.  Network of terms
+	
 	b.  Cluster dendrogram
+	
 	c.  Word cloud
+	
 	d.  Sentiment scores
+	
 3.	Archive the sentiment scores for side-by-side comparison in Sprint #3
 	
 **Contents of pdf file**
+
 Pages 1-2 Introduction and overview
+
       3-19 Exploratory Data Analysis (consolidated, all banks)
 
 Individual bank analytics, including network of terms, cluster dendrogram, word cloud, sentiment scores
+
       19-27 CIBC
+	  
       27-35 BMO
+	  
       35-43 Scotia Bank
+	  
       43-51 RBC
+	  
       51-59 TD Bank
