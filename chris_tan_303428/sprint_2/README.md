@@ -33,11 +33,11 @@ Here are the research questions for this project:
 	
 **Contents of pdf file**
 
-Pages 1-2 Introduction and overview
+Pages 1-2   Introduction and overview
 
-      3-19 Exploratory Data Analysis (consolidated, all banks)
+Pages 3-19  Exploratory Data Analysis (consolidated, all banks)
 
-Individual bank analytics, including network of terms, cluster dendrogram, word cloud, sentiment scores
+Pages 19-59 Individual bank analytics, including network of terms, cluster dendrogram, word cloud, sentiment scores
 
       19-27 CIBC
 	  
